@@ -88,6 +88,7 @@ from jaxonnxruntime.onnx_ops import reciprocal
 from jaxonnxruntime.onnx_ops import reducemax
 from jaxonnxruntime.onnx_ops import reducemean
 from jaxonnxruntime.onnx_ops import reducesum
+from jaxonnxruntime.onnx_ops import elu
 from jaxonnxruntime.onnx_ops import relu
 from jaxonnxruntime.onnx_ops import reshape
 from jaxonnxruntime.onnx_ops import scatterelements
